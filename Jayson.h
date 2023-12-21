@@ -1,6 +1,8 @@
 /*
  * Copyright (c) 2023, ke0na
  *
+ * Version 1.0.0
+ *
  * SPDX-License-Identifier: MIT
  */
 
